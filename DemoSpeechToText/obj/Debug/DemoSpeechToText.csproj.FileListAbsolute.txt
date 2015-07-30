@@ -1,0 +1,6 @@
+D:\Nikita\DemoProjects\DemoSpeechToText\DemoSpeechToText\bin\Debug\DemoSpeechToText.exe.config
+D:\Nikita\DemoProjects\DemoSpeechToText\DemoSpeechToText\obj\Debug\DemoSpeechToText.csprojResolveAssemblyReference.cache
+D:\Nikita\DemoProjects\DemoSpeechToText\DemoSpeechToText\bin\Debug\DemoSpeechToText.exe
+D:\Nikita\DemoProjects\DemoSpeechToText\DemoSpeechToText\bin\Debug\DemoSpeechToText.pdb
+D:\Nikita\DemoProjects\DemoSpeechToText\DemoSpeechToText\obj\Debug\DemoSpeechToText.exe
+D:\Nikita\DemoProjects\DemoSpeechToText\DemoSpeechToText\obj\Debug\DemoSpeechToText.pdb

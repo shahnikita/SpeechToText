@@ -167,7 +167,7 @@ namespace DemoSpeechToText
                         }
 
                         text += String.Format("\n\n");
-
+                        Console.WriteLine(text);
                     }
 
                 }

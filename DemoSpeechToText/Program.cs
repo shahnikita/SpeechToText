@@ -23,18 +23,18 @@ namespace DemoSpeechToText
 
     class Program
     {
-       
+
 
 
         public static void Main(string[] args)
         {
 
-            SpeechDemo demo=new SpeechDemo();
-            demo.InitializeSpeechRecognitionEngine(@"D:\Nikita\DemoProjects\DemoSpeechToText\bush.wav");
+            SpeechDemo demo = new SpeechDemo();
+            demo.InitializeSpeechRecognitionEngine( "sample1.wav");
             Console.ReadLine();
         }
-      
 
-       
+
+
     }
 }
